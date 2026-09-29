@@ -1,0 +1,15 @@
+{
+    "working_hours": {
+        "start": "09:00",
+        "end": "17:00"
+    },
+    "event": {
+        "default_duration": 60,
+        "default_reminder": 15
+    },
+    "daily_briefing": {
+        "enabled": false,
+        "time": "08:00"
+    },
+    "time_zone": "Asia/Kolkata"
+}
